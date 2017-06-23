@@ -24,7 +24,7 @@ Hi!
         fmt.Println("Hello World")
     }
 
-___
++++
 
 ## Hello World #2
 
@@ -39,7 +39,7 @@ ___
 
 ## YouTube Video
 
-![Video](https://www.youtube.com/watch?v=4YQHLgYC5Vk)
+![Video](https://www.youtube.com/embed/4YQHLgYC5Vk)
 
 ---
 
