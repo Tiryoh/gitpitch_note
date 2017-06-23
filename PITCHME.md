@@ -13,16 +13,23 @@ Hi!
 
 ---
 
-## Hello World
+# Hello World
 
+(scroll down to view #1,#2)
 
-    package main
++++
 
-    import "fmt"
+## Hello World #1
 
-    func main() {
-        fmt.Println("Hello World")
-    }
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello World")
+}
+```
 
 (scroll down to view #2)
 
@@ -30,12 +37,14 @@ Hi!
 
 ## Hello World #2
 
-    #include <stdio.h>
-    int main(int argc, char const* argv[])
-    {
-        printf("HelloWorld\n");
-        return 0;
-    }
+```clang
+#include <stdio.h>
+int main(int argc, char const* argv[])
+{
+    printf("HelloWorld\n");
+    return 0;
+}
+```
 
 ---
 
@@ -60,3 +69,4 @@ $$ P(A|B) = \frac {P(B|A) P(A)} {P(B)} $$
 ---
 
 ## TitleOnly
+
