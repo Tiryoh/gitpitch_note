@@ -24,6 +24,8 @@ Hi!
         fmt.Println("Hello World")
     }
 
+(scroll down to view #2)
+
 +++
 
 ## Hello World #2
@@ -45,13 +47,16 @@ Hi!
 
 ## Mathjax
 
-P(A|B) = \frac {P(B|A) P(A)} {P(B)}
+$$ P(A|B) = \frac {P(B|A) P(A)} {P(B)} $$
 
 ---
+
+# TitleSize
+
+## TitleSize
 
 ### TitleSize
 
 ---
 
-## TitleSize
-
+## TitleOnly
