@@ -1,5 +1,4 @@
 revealjs: 3.4.1
-theme: white
 mathjax : TeX-MML-AM_HTMLorMML-full
 footnote : "(C) 2017 Tiryoh"
 slide-number: true
