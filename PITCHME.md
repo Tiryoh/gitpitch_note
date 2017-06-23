@@ -37,7 +37,7 @@ func main() {
 
 ## Hello World #2
 
-```clang
+```cpp
 #include <stdio.h>
 int main(int argc, char const* argv[])
 {
@@ -56,7 +56,7 @@ int main(int argc, char const* argv[])
 
 ## Mathjax
 
-$$ P(A|B) = \frac {P(B|A) P(A)} {P(B)} $$
+$$P(A|B) = \frac {P(B|A) P(A)} {P(B)}$$
 
 ---
 
